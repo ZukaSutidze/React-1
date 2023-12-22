@@ -6,7 +6,7 @@ function App() {
     <>
       <div className='White'>
         <div className="Blue">
-          <img src="./public/qr-code.svg" alt="" />
+          <img src="/public/qr-code.svg" alt="" />
         </div>
         
         <div className='Texts'>
